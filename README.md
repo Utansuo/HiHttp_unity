@@ -1,2 +1,2 @@
 # HiHttp
-unity中的断点续传逻辑,ios未验证,android验证通过.
+unity中的文件下载逻辑,支持断点续传,基于http协议,ios未验证,android验证通过.
